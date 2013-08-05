@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.01.19 15:56:59.969.cbproj,C:\Users\sirius\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Project1.cbproj</Transaction>
+    <Transaction>2011.01.19 16:03:39.534.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Scene.cpp</Transaction>
+    <Transaction>2011.01.19 16:03:39.534.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Scene.h</Transaction>
+    <Transaction>2011.01.19 16:03:49.688.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Model.cpp</Transaction>
+    <Transaction>2011.01.19 16:03:49.688.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Model.h</Transaction>
+    <Transaction>2011.01.19 16:06:34.059.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Camera.cpp</Transaction>
+    <Transaction>2011.01.19 16:06:34.059.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Camera.h</Transaction>
+    <Transaction>2011.01.19 16:20:48.744.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Ellipse.cpp</Transaction>
+    <Transaction>2011.01.19 16:20:48.745.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Ellipse.h</Transaction>
+    <Transaction>2011.01.20 01:29:08.792.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Hyper.cpp</Transaction>
+    <Transaction>2011.01.20 01:29:08.792.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Hyper.h</Transaction>
+    <Transaction>2011.01.20 01:38:18.340.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit2.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Ray.cpp</Transaction>
+    <Transaction>2011.01.20 01:38:18.340.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit2.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Ray.h</Transaction>
+    <Transaction>2011.01.20 01:39:23.895.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Cam.cpp</Transaction>
+    <Transaction>2011.01.20 01:39:23.895.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Cam.h</Transaction>
+    <Transaction>2011.01.20 01:50:27.713.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Polygon.cpp</Transaction>
+    <Transaction>2011.01.20 01:50:27.713.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Polygon.h</Transaction>
+    <Transaction>2011.01.20 02:05:10.416.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Sphere.cpp</Transaction>
+    <Transaction>2011.01.20 02:05:10.416.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Sphere.h</Transaction>
+    <Transaction>2011.01.20 02:19:08.373.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Types.cpp</Transaction>
+    <Transaction>2011.01.20 02:19:08.373.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Types.h</Transaction>
+    <Transaction>2011.01.20 02:29:03.764.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.cpp=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Lamp.cpp</Transaction>
+    <Transaction>2011.01.20 02:29:03.764.h,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Unit1.h=C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Lamp.h</Transaction>
+    <Transaction>2011.01.20 02:34:22.048.cpp,C:\Users\sirius\Desktop\¦-¦+TЛTЙTЙ3\Tracer.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Cam.cpp"/>
+    <File Path="Cam.cpp"/>
+    <File Path="Cam.h"/>
+    <File Path="Ellipse.cpp"/>
+    <File Path="Ellipse.cpp"/>
+    <File Path="Ellipse.h"/>
+    <File Path="Hyper.cpp"/>
+    <File Path="Hyper.cpp"/>
+    <File Path="Hyper.h"/>
+    <File Path="Lamp.cpp"/>
+    <File Path="Lamp.cpp"/>
+    <File Path="Lamp.h"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.dfm"/>
+    <File Path="Main.h"/>
+    <File Path="Model.cpp"/>
+    <File Path="Model.cpp"/>
+    <File Path="Model.h"/>
+    <File Path="Polygon.cpp"/>
+    <File Path="Polygon.cpp"/>
+    <File Path="Polygon.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1.res"/>
+    <File Path="Ray.cpp"/>
+    <File Path="Ray.cpp"/>
+    <File Path="Ray.h"/>
+    <File Path="Scene.cpp"/>
+    <File Path="Scene.cpp"/>
+    <File Path="Scene.h"/>
+    <File Path="Sphere.cpp"/>
+    <File Path="Sphere.cpp"/>
+    <File Path="Sphere.h"/>
+    <File Path="Types.cpp"/>
+    <File Path="Types.cpp"/>
+    <File Path="Types.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
